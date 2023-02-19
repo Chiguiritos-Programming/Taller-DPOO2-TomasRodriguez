@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>taller2_Hamburguesas</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>data</name>
+			<type>2</type>
+			<location>C:/Users/Adriana Sofía Rozo C/Documents/Tercer Semestre/java-2022-12/Taller2_Hamburguesas_esqueleto/data</location>
+		</link>
+		<link>
+			<name>data/factura.txt</name>
+			<type>1</type>
+			<location>C:/Users/Adriana Sofía Rozo C/Desktop/factura.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
